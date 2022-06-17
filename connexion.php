@@ -1,2 +1,2 @@
 <?php
-echo "jai terminé la coonnexion";
+echo "jai terminé la coonnexion a l'instant";
